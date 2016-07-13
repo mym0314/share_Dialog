@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/centerActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/actionBar"
+        layout="@layout/title" />
+
+    <FrameLayout
+        android:id="@+id/home_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/tab"
+        android:layout_below="@+id/actionBar">
+    </FrameLayout>
+
+    <RadioGroup
+        android:id="@+id/tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#555555"
+        android:baselineAligned="false"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/tab_home"
+            style="@style/HomeTab"
+            android:checked="true"
+            android:drawableTop="@drawable/tab_home"
+            android:text="@string/tab_home" />
+        <RadioButton
+            android:id="@+id/tab_cart"
+            style="@style/HomeTab"
+            android:drawableTop="@drawable/tab_cart"
+            android:text="@string/tab_cart" />
+
+        <RadioButton
+            android:id="@+id/tab_category"
+            style="@style/HomeTab"
+            android:drawableTop="@drawable/tab_category"
+            android:text="@string/tab_category" />
+
+        <RadioButton
+            android:id="@+id/tab_see"
+            style="@style/HomeTab"
+            android:drawableTop="@drawable/tab_see"
+            android:text="@string/tab_see" />
+
+        <RadioButton
+            android:id="@+id/tab_mine"
+            style="@style/HomeTab"
+            android:drawableTop="@drawable/tab_mine"
+            android:text="@string/tab_mine" />
+    </RadioGroup>
+</RelativeLayout>

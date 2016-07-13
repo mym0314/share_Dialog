@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\studioworkspace\\android_day16\\WeiboSDK\\build\\intermediates\\res\\merged\\debug\\drawable\\com_sina_weibo_sdk_button_grey.xml",
+        "source": "D:\\studioworkspace\\android_day16\\WeiboSDK\\res\\drawable\\com_sina_weibo_sdk_button_grey.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace\\android_day16\\WeiboSDK\\build\\intermediates\\res\\merged\\debug\\drawable\\com_sina_weibo_sdk_login_button_with_original_logo.xml",
+        "source": "D:\\studioworkspace\\android_day16\\WeiboSDK\\res\\drawable\\com_sina_weibo_sdk_login_button_with_original_logo.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace\\android_day16\\WeiboSDK\\build\\intermediates\\res\\merged\\debug\\drawable\\com_sina_weibo_sdk_button_blue.xml",
+        "source": "D:\\studioworkspace\\android_day16\\WeiboSDK\\res\\drawable\\com_sina_weibo_sdk_button_blue.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace\\android_day16\\WeiboSDK\\build\\intermediates\\res\\merged\\debug\\drawable\\com_sina_weibo_sdk_login_button_with_frame_logo.xml",
+        "source": "D:\\studioworkspace\\android_day16\\WeiboSDK\\res\\drawable\\com_sina_weibo_sdk_login_button_with_frame_logo.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace\\android_day16\\WeiboSDK\\build\\intermediates\\res\\merged\\debug\\drawable\\com_sina_weibo_sdk_login_button_with_account_text.xml",
+        "source": "D:\\studioworkspace\\android_day16\\WeiboSDK\\res\\drawable\\com_sina_weibo_sdk_login_button_with_account_text.xml"
+    }
+]

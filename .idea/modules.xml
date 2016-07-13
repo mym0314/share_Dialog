@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LikeAnimation/LikeAnimation.iml" filepath="$PROJECT_DIR$/LikeAnimation/LikeAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Review/Review.iml" filepath="$PROJECT_DIR$/Review/Review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestMyWebView/TestMyWebView.iml" filepath="$PROJECT_DIR$/TestMyWebView/TestMyWebView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeiboSDK/WeiboSDK.iml" filepath="$PROJECT_DIR$/WeiboSDK/WeiboSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-ui-master/android-ui-master.iml" filepath="$PROJECT_DIR$/android-ui-master/android-ui-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_day16.iml" filepath="$PROJECT_DIR$/android_day16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crazyandroid/crazyandroid.iml" filepath="$PROJECT_DIR$/crazyandroid/crazyandroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dragGridView/dragGridView.iml" filepath="$PROJECT_DIR$/dragGridView/dragGridView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gridview拖拽/gridview拖拽.iml" filepath="$PROJECT_DIR$/gridview拖拽/gridview拖拽.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httppostget/httppostget.iml" filepath="$PROJECT_DIR$/httppostget/httppostget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_weixin6_0/imooc_weixin6_0.iml" filepath="$PROJECT_DIR$/imooc_weixin6_0/imooc_weixin6_0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myaidl/myaidl.iml" filepath="$PROJECT_DIR$/myaidl/myaidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytextaidl/mytextaidl.iml" filepath="$PROJECT_DIR$/mytextaidl/mytextaidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shareDialog/shareDialog.iml" filepath="$PROJECT_DIR$/shareDialog/shareDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testdemo/testdemo.iml" filepath="$PROJECT_DIR$/testdemo/testdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volly回调/volly回调.iml" filepath="$PROJECT_DIR$/volly回调/volly回调.iml" />
+      <module fileurl="file://$PROJECT_DIR$/微信6.0/微信6.0.iml" filepath="$PROJECT_DIR$/微信6.0/微信6.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/简书/简书.iml" filepath="$PROJECT_DIR$/简书/简书.iml" />
+      <module fileurl="file://$PROJECT_DIR$/自定义viewpagerdemo/自定义viewpagerdemo.iml" filepath="$PROJECT_DIR$/自定义viewpagerdemo/自定义viewpagerdemo.iml" />
+    </modules>
+  </component>
+</project>

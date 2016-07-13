@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionOverflowButtonStyle">@style/weixinActionOverflowButtonStyle</item>
+    </style>
+
+    <style name="weixinActionOverflowButtonStyle">
+        <item name="android:src">@mipmap/actionbar_add_icon</item>
+    </style>
+    <style name="weixinActionSearch">
+        <item name="android:id">@id/action_search</item>
+        <item name="android:showAsAction">ifRoom|collapseActionView</item>
+
+    </style>
+</resources>

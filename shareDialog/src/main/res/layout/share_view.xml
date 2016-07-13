@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/share_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="10dp"
+        android:background="#ffffff"
+        android:gravity="center"
+        android:text="取消"
+        android:textSize="20sp" />
+
+    <RelativeLayout
+        android:id="@+id/share_content"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_above="@+id/share_cancel"
+        android:layout_margin="10dp"
+        android:background="#ffffff">
+
+        <ImageView
+            android:id="@+id/share_weixin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:background="@mipmap/goods_share_wx_icon" />
+
+        <ImageView
+            android:id="@+id/share_weibo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="20dp"
+            android:background="@mipmap/goods_share_xl_icon" />
+
+        <ImageView
+            android:id="@+id/share_friends"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:background="@mipmap/goods_share_wpq_icon" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

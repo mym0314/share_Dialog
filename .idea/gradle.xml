@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\android-studio\android-studio\android-studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/LikeAnimation" />
+            <option value="$PROJECT_DIR$/Review" />
+            <option value="$PROJECT_DIR$/TestMyWebView" />
+            <option value="$PROJECT_DIR$/WeiboSDK" />
+            <option value="$PROJECT_DIR$/android-ui-master" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/crazyandroid" />
+            <option value="$PROJECT_DIR$/dragGridView" />
+            <option value="$PROJECT_DIR$/gridview拖拽" />
+            <option value="$PROJECT_DIR$/httppostget" />
+            <option value="$PROJECT_DIR$/imooc_weixin6_0" />
+            <option value="$PROJECT_DIR$/myaidl" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/mytextaidl" />
+            <option value="$PROJECT_DIR$/shareDialog" />
+            <option value="$PROJECT_DIR$/testdemo" />
+            <option value="$PROJECT_DIR$/volly回调" />
+            <option value="$PROJECT_DIR$/微信6.0" />
+            <option value="$PROJECT_DIR$/简书" />
+            <option value="$PROJECT_DIR$/自定义viewpagerdemo" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/LikeAnimation" />
+            <option value="$PROJECT_DIR$/Review" />
+            <option value="$PROJECT_DIR$/TestMyWebView" />
+            <option value="$PROJECT_DIR$/WeiboSDK" />
+            <option value="$PROJECT_DIR$/android-ui-master" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/crazyandroid" />
+            <option value="$PROJECT_DIR$/dragGridView" />
+            <option value="$PROJECT_DIR$/gridview拖拽" />
+            <option value="$PROJECT_DIR$/httppostget" />
+            <option value="$PROJECT_DIR$/imooc_weixin6_0" />
+            <option value="$PROJECT_DIR$/myaidl" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/mytextaidl" />
+            <option value="$PROJECT_DIR$/shareDialog" />
+            <option value="$PROJECT_DIR$/testdemo" />
+            <option value="$PROJECT_DIR$/volly回调" />
+            <option value="$PROJECT_DIR$/微信6.0" />
+            <option value="$PROJECT_DIR$/简书" />
+            <option value="$PROJECT_DIR$/自定义viewpagerdemo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

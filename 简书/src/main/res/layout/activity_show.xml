@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/show_choose"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/tv_faxian"
+            style="@style/show"
+            android:text="发现"
+            android:textColor="#ff0000" />
+
+        <TextView
+            android:id="@+id/tv_guanzhu"
+            style="@style/show"
+            android:text="关注" />
+
+        <ImageView
+            android:id="@+id/iv_center"
+            style="@style/show"
+            android:src="@mipmap/a"
+
+            />
+
+        <TextView
+            android:id="@+id/tv_xiaoxi"
+            style="@style/show"
+            android:text="消息" />
+
+
+        <TextView
+            android:id="@+id/tv_wode"
+            style="@style/show"
+            android:text="我的" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/show_frameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/show_choose">
+
+    </FrameLayout>
+
+</RelativeLayout>

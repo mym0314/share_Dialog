@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\studioworkspace\\android_day16\\imooc_weixin6_0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_find_frd_normal.png",
+        "source": "D:\\studioworkspace\\android_day16\\imooc_weixin6_0\\res\\drawable-hdpi\\tab_find_frd_normal.png"
+    },
+    {
+        "merged": "D:\\studioworkspace\\android_day16\\imooc_weixin6_0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_address_normal.png",
+        "source": "D:\\studioworkspace\\android_day16\\imooc_weixin6_0\\res\\drawable-hdpi\\tab_address_normal.png"
+    },
+    {
+        "merged": "D:\\studioworkspace\\android_day16\\imooc_weixin6_0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\studioworkspace\\android_day16\\imooc_weixin6_0\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\studioworkspace\\android_day16\\imooc_weixin6_0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_settings_normal.png",
+        "source": "D:\\studioworkspace\\android_day16\\imooc_weixin6_0\\res\\drawable-hdpi\\tab_settings_normal.png"
+    },
+    {
+        "merged": "D:\\studioworkspace\\android_day16\\imooc_weixin6_0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_weixin_normal.png",
+        "source": "D:\\studioworkspace\\android_day16\\imooc_weixin6_0\\res\\drawable-hdpi\\tab_weixin_normal.png"
+    }
+]

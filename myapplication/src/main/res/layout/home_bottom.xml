@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00f0f0"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_first"
+        style="@style/HomeBottom"
+        android:background="@mipmap/a"
+        android:text="@string/home_bottom_first" />
+
+    <Button
+        android:id="@+id/btn_second"
+        style="@style/HomeBottom"
+        android:background="@mipmap/b"
+        android:text="@string/home_bottom_second" />
+
+    <Button
+        android:id="@+id/btn_third"
+        style="@style/HomeBottom"
+        android:background="@mipmap/c"
+        android:text="@string/home_bottom_third" />
+
+    <Button
+        android:id="@+id/btn_forth"
+        style="@style/HomeBottom"
+        android:background="@mipmap/d"
+        android:text="@string/home_bottom_forth" />
+
+    <Button
+        android:id="@+id/btn_fifth"
+        style="@style/HomeBottom"
+        android:background="@mipmap/f"
+        android:text="@string/home_bottom_fifth" />
+
+</LinearLayout>

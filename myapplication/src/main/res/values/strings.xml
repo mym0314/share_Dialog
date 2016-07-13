@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="center">CenterActivity</string>
+    <string name="notification">Notification</string>
+    <string name="tab_home">首页</string>
+    <string name="tab_cart">购物</string>
+    <string name="tab_category">分类</string>
+    <string name="tab_see">发现</string>
+    <string name="tab_mine">我的</string>
+    <string name="home_bottom_first">First</string>
+    <string name="home_bottom_second">Second</string>
+    <string name="home_bottom_third">Third</string>
+    <string name="home_bottom_forth">Forth</string>
+    <string name="home_bottom_fifth">Fifth</string>
+    <string name="account">账号管理</string>
+
+</resources>

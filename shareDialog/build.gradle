@@ -1,0 +1,46 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "23.0.2"
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    packagingOptions {
+        exclude 'assets/drawable-xxhdpi/get_code_button_highlighted.9.png'
+        exclude 'assets/drawable-xhdpi/get_code_button_highlighted.9.png'
+
+    }
+    dexOptions {
+        javaMaxHeapSize "4g"
+
+    }
+
+    defaultConfig {
+        applicationId "com.example.sharedialog"
+        minSdkVersion 16
+        targetSdkVersion 21
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:22.2.1'
+    compile files('libs/libammsdk.jar')
+    compile project(':WeiboSDK')
+    compile 'com.android.support:support-v4:22.2.1'
+    provided files('libs/weibosdkcore_release.jar')
+}
